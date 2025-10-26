@@ -9,4 +9,4 @@ Each  column is a part of the 3D atmospheric circulation (Rossby modes only) div
 - entire Rossby circulation or all *k* (it depends on truncation),
 - zonal-mean zonal flow (or "background") or *k0*,
 - planetary-scale Rossby waves or *k1-k3*,
-- synoptic-scale Rossby waves or *k4-k15*
+- synoptic-scale Rossby waves or *k4-k15*.
